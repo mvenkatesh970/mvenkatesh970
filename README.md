@@ -1,0 +1,13 @@
+HELLO THIS IS VENKY👐
+
+- 👋 Hi, I’m @mvenkatesh970
+- 👀 I’m interested in learning new things ...
+- 🌱 I’m currently pursuing computer science and engineering  ...
+- 💞️ I’m looking to projects collaboration...
+- 📫 How to reach me on Twitter ...
+https://twitter.com/venkyveltoor
+
+<!---
+mvenkatesh970/mvenkatesh970 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
